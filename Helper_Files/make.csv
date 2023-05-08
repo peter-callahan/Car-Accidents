@@ -1,0 +1,139 @@
+Code,Make
+1,American Motors
+2,Jeep/Kaiser-Jeep/Willys-Jeep
+3,AM General
+6,Chrysler
+7,Dodge
+8,Imperial
+9,Plymouth
+10,Eagle
+12,Ford
+13,Lincoln
+14,Mercury
+18,Buick/Opel
+19,Cadillac
+20,Chevrolet
+21,Oldsmobile
+22,Pontiac
+23,GMC
+24,Saturn
+25,Grumman
+26,Coda
+29,Other Domestic Manufacturers
+29-001,Avanti
+29-001,Studebaker
+29-002,Checker
+29-003,Panoz
+29-004,Saleen
+29-005,Tesla
+29-398,Desoto
+30,Volkswagen
+31,Alfa Romeo
+32,Audi
+33,Austin/Austin Healey
+34,BMW
+35,Datsun/Nissan
+36,Fiat
+37,Honda
+38,Isuzu
+39,Jaguar
+40,Lancia
+41,Mazda
+42,Mercedes-Benz
+43,MG
+44,Peugeot
+45,Porsche
+46,Renault
+47,Saab
+48,Subaru
+49,Toyota
+50,Triumph
+52,Mitsubishi
+53,Suzuki
+54,Acura
+55,Hyundai
+56,Merkur
+57,Yugo
+58,Infiniti
+59,Lexus
+60,Diahatsu
+61,Sterling
+62,Land Rover
+63,Kia
+64,Daewoo
+65,Smart
+67,Scion
+69,Other Import
+69-031,Aston Martin
+69-032,Bricklin
+69-033,Citroen
+69-034,DeLorean
+69-035,Ferrari
+69-036,Hillman
+69-037,Jensen
+69-038,Lamborghini
+69-039,Lotus
+69-040,Maserati
+69-041,Morris
+69-042,Bentley
+69-042,Rolls Royce
+69-044,Simca
+69-045,Sunbeam
+69-046,TVR
+69-048,Desta
+69-049,Reliant (British)
+69-052,Bertone
+69-053,Lada
+69-054,Mini-Cooper
+69-055,Morgan
+69-056,Maybach
+69-057,Spyker
+69-058,Koenigsegg
+69-061,Mahindra
+69-062,Caterham
+69-063,McLaren
+69-064,Bugatti
+69-398,Fisker
+70,BSA
+71,Ducati
+72,Harley-Davidson
+73,Kawasaki
+74,Moto-Guzzi
+75,Norton
+76,Yamaha
+77,Victory
+80,Brockway
+81,Diamond Reo/Reo
+82,Freightliner
+83,FWD
+84,International Harvester/Navistar
+85,Kenworth
+86,Mack
+87,Peterbilt
+88,Iveco/Magirus
+89,White/Autocar White/GMC
+90,Bluebird
+91,Eagle Coach
+92,Gillig
+93,MCI
+94,Thomas Built
+97,Not Reported
+98,Other Make
+98-301,Think
+98-302,Meyers Motors
+98-802,Auto-Union-DKW
+98-803,Divco
+98-804,Western Star
+98-805,Oshkosh
+98-806,Hino
+98-807,Scania
+98-808,UD
+98-809,Sterling
+98-902,Neoplan
+98-903,Carpenter
+98-904,Collins Bus
+98-905,DINA
+98-906,Mid Bus
+98-907,Orion
+98-908,Van Hool
+99,Unknown Make

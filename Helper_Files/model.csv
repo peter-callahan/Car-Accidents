@@ -1,0 +1,552 @@
+Code,Model
+1,Automobiles
+2,Automobiles
+3,Automobiles
+4,Automobiles
+5,Automobiles
+6,Automobiles
+7,Automobiles
+8,Automobiles
+9,Automobiles
+10,Automobiles
+11,Automobiles
+12,Automobiles
+13,Automobiles
+14,Automobiles
+15,Automobiles
+16,Automobiles
+17,Automobiles
+18,Automobiles
+19,Automobiles
+20,Automobiles
+21,Automobiles
+22,Automobiles
+23,Automobiles
+24,Automobiles
+25,Automobiles
+26,Automobiles
+27,Automobiles
+28,Automobiles
+29,Automobiles
+30,Automobiles
+31,Automobiles
+32,Automobiles
+33,Automobiles
+34,Automobiles
+35,Automobiles
+36,Automobiles
+37,Automobiles
+38,Automobiles
+39,Automobiles
+40,Automobiles
+41,Automobiles
+42,Automobiles
+43,Automobiles
+44,Automobiles
+45,Automobiles
+46,Automobiles
+47,Automobiles
+48,Automobiles
+49,Automobiles
+50,Automobiles
+51,Automobiles
+52,Automobiles
+53,Automobiles
+54,Automobiles
+55,Automobiles
+56,Automobiles
+57,Automobiles
+58,Automobiles
+59,Automobiles
+60,Automobiles
+61,Automobiles
+62,Automobiles
+63,Automobiles
+64,Automobiles
+65,Automobiles
+66,Automobiles
+67,Automobiles
+68,Automobiles
+69,Automobiles
+70,Automobiles
+71,Automobiles
+72,Automobiles
+73,Automobiles
+74,Automobiles
+75,Automobiles
+76,Automobiles
+77,Automobiles
+78,Automobiles
+79,Automobiles
+80,Automobiles
+81,Automobiles
+82,Automobiles
+83,Automobiles
+84,Automobiles
+85,Automobiles
+86,Automobiles
+87,Automobiles
+88,Automobiles
+89,Automobiles
+90,Automobiles
+91,Automobiles
+92,Automobiles
+93,Automobiles
+94,Automobiles
+95,Automobiles
+96,Automobiles
+97,Automobiles
+98,Automobiles
+99,Automobiles
+100,Automobiles
+101,Automobiles
+102,Automobiles
+103,Automobiles
+104,Automobiles
+105,Automobiles
+106,Automobiles
+107,Automobiles
+108,Automobiles
+109,Automobiles
+110,Automobiles
+111,Automobiles
+112,Automobiles
+113,Automobiles
+114,Automobiles
+115,Automobiles
+116,Automobiles
+117,Automobiles
+118,Automobiles
+119,Automobiles
+120,Automobiles
+121,Automobiles
+122,Automobiles
+123,Automobiles
+124,Automobiles
+125,Automobiles
+126,Automobiles
+127,Automobiles
+128,Automobiles
+129,Automobiles
+130,Automobiles
+131,Automobiles
+132,Automobiles
+133,Automobiles
+134,Automobiles
+135,Automobiles
+136,Automobiles
+137,Automobiles
+138,Automobiles
+139,Automobiles
+140,Automobiles
+141,Automobiles
+142,Automobiles
+143,Automobiles
+144,Automobiles
+145,Automobiles
+146,Automobiles
+147,Automobiles
+148,Automobiles
+149,Automobiles
+150,Automobiles
+151,Automobiles
+152,Automobiles
+153,Automobiles
+154,Automobiles
+155,Automobiles
+156,Automobiles
+157,Automobiles
+158,Automobiles
+159,Automobiles
+160,Automobiles
+161,Automobiles
+162,Automobiles
+163,Automobiles
+164,Automobiles
+165,Automobiles
+166,Automobiles
+167,Automobiles
+168,Automobiles
+169,Automobiles
+170,Automobiles
+171,Automobiles
+172,Automobiles
+173,Automobiles
+174,Automobiles
+175,Automobiles
+176,Automobiles
+177,Automobiles
+178,Automobiles
+179,Automobiles
+180,Automobiles
+181,Automobiles
+182,Automobiles
+183,Automobiles
+184,Automobiles
+185,Automobiles
+186,Automobiles
+187,Automobiles
+188,Automobiles
+189,Automobiles
+190,Automobiles
+191,Automobiles
+192,Automobiles
+193,Automobiles
+194,Automobiles
+195,Automobiles
+196,Automobiles
+197,Automobiles
+198,Automobiles
+199,Automobiles
+200,Automobiles
+201,Automobiles
+202,Automobiles
+203,Automobiles
+204,Automobiles
+205,Automobiles
+206,Automobiles
+207,Automobiles
+208,Automobiles
+209,Automobiles
+210,Automobiles
+211,Automobiles
+212,Automobiles
+213,Automobiles
+214,Automobiles
+215,Automobiles
+216,Automobiles
+217,Automobiles
+218,Automobiles
+219,Automobiles
+220,Automobiles
+221,Automobiles
+222,Automobiles
+223,Automobiles
+224,Automobiles
+225,Automobiles
+226,Automobiles
+227,Automobiles
+228,Automobiles
+229,Automobiles
+230,Automobiles
+231,Automobiles
+232,Automobiles
+233,Automobiles
+234,Automobiles
+235,Automobiles
+236,Automobiles
+237,Automobiles
+238,Automobiles
+239,Automobiles
+240,Automobiles
+241,Automobiles
+242,Automobiles
+243,Automobiles
+244,Automobiles
+245,Automobiles
+246,Automobiles
+247,Automobiles
+248,Automobiles
+249,Automobiles
+250,Automobiles
+251,Automobiles
+252,Automobiles
+253,Automobiles
+254,Automobiles
+255,Automobiles
+256,Automobiles
+257,Automobiles
+258,Automobiles
+259,Automobiles
+260,Automobiles
+261,Automobiles
+262,Automobiles
+263,Automobiles
+264,Automobiles
+265,Automobiles
+266,Automobiles
+267,Automobiles
+268,Automobiles
+269,Automobiles
+270,Automobiles
+271,Automobiles
+272,Automobiles
+273,Automobiles
+274,Automobiles
+275,Automobiles
+276,Automobiles
+277,Automobiles
+278,Automobiles
+279,Automobiles
+280,Automobiles
+281,Automobiles
+282,Automobiles
+283,Automobiles
+284,Automobiles
+285,Automobiles
+286,Automobiles
+287,Automobiles
+288,Automobiles
+289,Automobiles
+290,Automobiles
+291,Automobiles
+292,Automobiles
+293,Automobiles
+294,Automobiles
+295,Automobiles
+296,Automobiles
+297,Automobiles
+298,Automobiles
+299,Automobiles
+300,Automobiles
+301,Automobiles
+302,Automobiles
+303,Automobiles
+304,Automobiles
+305,Automobiles
+306,Automobiles
+307,Automobiles
+308,Automobiles
+309,Automobiles
+310,Automobiles
+311,Automobiles
+312,Automobiles
+313,Automobiles
+314,Automobiles
+315,Automobiles
+316,Automobiles
+317,Automobiles
+318,Automobiles
+319,Automobiles
+320,Automobiles
+321,Automobiles
+322,Automobiles
+323,Automobiles
+324,Automobiles
+325,Automobiles
+326,Automobiles
+327,Automobiles
+328,Automobiles
+329,Automobiles
+330,Automobiles
+331,Automobiles
+332,Automobiles
+333,Automobiles
+334,Automobiles
+335,Automobiles
+336,Automobiles
+337,Automobiles
+338,Automobiles
+339,Automobiles
+340,Automobiles
+341,Automobiles
+342,Automobiles
+343,Automobiles
+344,Automobiles
+345,Automobiles
+346,Automobiles
+347,Automobiles
+348,Automobiles
+349,Automobiles
+350,Automobiles
+351,Automobiles
+352,Automobiles
+353,Automobiles
+354,Automobiles
+355,Automobiles
+356,Automobiles
+357,Automobiles
+358,Automobiles
+359,Automobiles
+360,Automobiles
+361,Automobiles
+362,Automobiles
+363,Automobiles
+364,Automobiles
+365,Automobiles
+366,Automobiles
+367,Automobiles
+368,Automobiles
+369,Automobiles
+370,Automobiles
+371,Automobiles
+372,Automobiles
+373,Automobiles
+374,Automobiles
+375,Automobiles
+376,Automobiles
+377,Automobiles
+378,Automobiles
+379,Automobiles
+380,Automobiles
+381,Automobiles
+382,Automobiles
+383,Automobiles
+384,Automobiles
+385,Automobiles
+386,Automobiles
+387,Automobiles
+388,Automobiles
+389,Automobiles
+390,Automobiles
+391,Automobiles
+392,Automobiles
+393,Automobiles
+394,Automobiles
+395,Automobiles
+396,Automobiles
+397,Automobiles
+398,Other (Automobile)
+399,Unknown (Automobile)
+401,Light Trucks
+402,Light Trucks
+403,Light Trucks
+404,Light Trucks
+405,Light Trucks
+406,Light Trucks
+407,Light Trucks
+408,Light Trucks
+409,Light Trucks
+410,Light Trucks
+411,Light Trucks
+412,Light Trucks
+413,Light Trucks
+414,Light Trucks
+415,Light Trucks
+416,Light Trucks
+417,Light Trucks
+418,Light Trucks
+419,Light Trucks
+420,Light Trucks
+421,Light Trucks
+422,Light Trucks
+423,Light Trucks
+424,Light Trucks
+425,Light Trucks
+426,Light Trucks
+427,Light Trucks
+428,Light Trucks
+429,Light Trucks
+430,Light Trucks
+431,Light Trucks
+432,Light Trucks
+433,Light Trucks
+434,Light Trucks
+435,Light Trucks
+436,Light Trucks
+437,Light Trucks
+438,Light Trucks
+439,Light Trucks
+440,Light Trucks
+441,Light Trucks
+442,Light Trucks
+443,Light Trucks
+444,Light Trucks
+445,Light Trucks
+446,Light Trucks
+447,Light Trucks
+448,Light Trucks
+449,Light Trucks
+450,Light Trucks
+451,Light Trucks
+452,Light Trucks
+453,Light Trucks
+454,Light Trucks
+455,Light Trucks
+456,Light Trucks
+457,Light Trucks
+458,Light Trucks
+459,Light Trucks
+460,Light Trucks
+461,Light Trucks
+462,Light Trucks
+463,Light Trucks
+464,Light Trucks
+465,Light Trucks
+466,Light Trucks
+467,Light Trucks
+468,Light Trucks
+469,Light Trucks
+470,Light Trucks
+471,Light Trucks
+472,Light Trucks
+473,Light Trucks
+474,Light Trucks
+475,Light Trucks
+476,Light Trucks
+477,Light Trucks
+478,Light Trucks
+479,Light Trucks
+480,Light Trucks
+481,Light Trucks
+482,Light Trucks
+483,Light Trucks
+484,Light Trucks
+485,Light Trucks
+486,Light Trucks
+487,Light Trucks
+488,Light Trucks
+489,Light Trucks
+490,Light Trucks
+491,Light Trucks
+492,Light Trucks
+493,Light Trucks
+494,Light Trucks
+495,Light Trucks
+496,Light Trucks
+497,Light Trucks
+498,Other (Light Trucks)
+499,Unknown (Light Trucks)
+598,Other (Low Speed Vehicle (LSV) / Neighborhood Electric Vehicle (NEV))
+599,Unknown (Low Speed Vehicle (LSV) / Neighborhood Electric Vehicle (NEV))
+701,Motorcycles
+702,Motorcycles
+703,Motorcycles
+704,Motorcycles
+705,Motorcycles
+706,Motorcycles
+707,Electric Motorcycle
+709,Unknown cc (Motorcycles)
+731,All-Terrain Vehicles
+732,All-Terrain Vehicles
+733,All-Terrain Vehicles
+734,All-Terrain Vehicles
+739,Unknown cc (ATV)
+801,Other Make (Medium/Heavy Trucks)
+802,Other Make (Medium/Heavy Trucks)
+803,Other Make (Medium/Heavy Trucks)
+804,Other Make (Medium/Heavy Trucks)
+805,Other Make (Medium/Heavy Trucks)
+806,Other Make (Medium/Heavy Trucks)
+807,Other Make (Medium/Heavy Trucks)
+808,Other Make (Medium/Heavy Trucks)
+809,Other Make (Medium/Heavy Trucks)
+850,Motor Home
+870,Medium/Heavy Van-Based Vehicle
+880,"Medium/Heavy Pickup (pickup-style only  over 10,000 lbs.)"
+881,Medium/Heavy Trucks  CBE
+882,Medium/Heavy Trucks  COE (low entry)
+883,Medium/Heavy Trucks  COE (high entry)
+884,Medium/Heavy Trucks  Unknown engine location
+890,Medium/Heavy Trucks  COE (entry position unknown)
+898,Other (Medium/Heavy Trucks)
+901,Other Make (Buses)
+902,Other Make (Buses)
+903,Other Make (Buses)
+904,Other Make (Buses)
+905,Other Make (Buses)
+906,Other Make (Buses)
+907,Other Make (Buses)
+908,Other Make (Buses)
+981,Buses
+982,Buses
+983,Buses
+984,Buses
+985,Buses
+986,Buses
+987,Buses
+988,Other (Bus)
+989,Unknown (Bus)
+997,Not Reported
+998,Other (Vehicle)
+999,Unknown
